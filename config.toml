@@ -25,3 +25,8 @@ url = "/about"
 identifier = "archive"
 name = "Archive"
 url = "/archive"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+hardWraps = true
