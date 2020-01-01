@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://blog.skmatz.com/"
 defaultContentLanguage = "ja"
 paginate = 5
 theme = "hello-friend"
