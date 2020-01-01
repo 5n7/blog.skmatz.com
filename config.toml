@@ -1,0 +1,27 @@
+baseURL = "/"
+defaultContentLanguage = "ja"
+paginate = 5
+theme = "hello-friend"
+
+[params]
+showReadingTime = true
+toc = true
+
+[languages]
+[languages.ja]
+title = "blog.skmatz.com"
+
+[languages.ja.params.logo]
+logoHomeLink = "/"
+logoText = "blog.skmatz.com"
+
+[languages.ja.menu]
+[[languages.ja.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+
+[[languages.ja.menu.main]]
+identifier = "archive"
+name = "Archive"
+url = "/archive"
