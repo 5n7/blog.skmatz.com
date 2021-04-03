@@ -8,6 +8,10 @@ description = "Spotify クライアントの見た目を編集する Spicetify �
 
 ## Spicetify とは
 
+1. hoge
+1. huga
+1. hoga
+
 [![khanhas/spicetify-cli](https://gh-card.dev/repos/khanhas/spicetify-cli.svg)](https://github.com/khanhas/spicetify-cli)
 
 Spicetify は、Linux、macOS、Windows で動く、Spotify クライアントの見た目をカスタマイズできるアプリケーションです。
